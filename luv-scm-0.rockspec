@@ -1,7 +1,7 @@
 package = "luv"
 version = "scm-0"
 source = {
-  url = 'git://github.com/luvit/luv.git'
+  url = 'git://github.com/tobil4sk/lua-luv.git'
 }
 rockspec_format = "3.0"
 
